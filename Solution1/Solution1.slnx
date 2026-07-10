@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Default" />
+    <Platform Name="Default" />
+  </Configurations>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="CREACION.SQL" />
+  </Folder>
+</Solution>
