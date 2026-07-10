@@ -1534,6 +1534,7 @@ END
 
 GO
 
+
 CREATE TABLE JCAA.reserva_transporte (
 
     id_reserva INT NOT NULL,
@@ -1562,4 +1563,3 @@ CREATE TABLE JCAA.reserva_transporte (
 
 print 'Tabla Reserva_Transporte Creada';
 
-GO
